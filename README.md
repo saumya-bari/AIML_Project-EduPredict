@@ -228,6 +228,3 @@ git branch -M main
 git remote add origin YOUR_GITHUB_REPOSITORY_URL
 git push -u origin main
 ```
-
-## 14. Academic Integrity
-Before submission, the student should understand the implementation, customize the project where appropriate, add original screenshots/results, test the final version, and be able to explain the dataset, model, architecture, evaluation, and limitations.
