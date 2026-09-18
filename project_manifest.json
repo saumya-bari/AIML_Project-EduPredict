@@ -1,0 +1,9 @@
+{
+    "project_name": "EduPredict - Student Academic Risk Analyzer",
+    "student_name": "Saumya Sopan Bari",
+    "registration_number": "25MIM10064",
+    "version": "Final",
+    "dataset_rows": 600,
+    "main_execution": "python -m src.main demo",
+    "test_execution": "python -m pytest -q"
+}
